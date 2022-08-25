@@ -2,24 +2,30 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+# subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
 
 profile:
   align: right
-  image: prof_pic.jpg
+  image: prof_pic_lory.jpg
   image_cicular: false # crops the image to make it circular
   address: >
-    <p>555 your office number</p>
-    <p>123 your address street</p>
-    <p>Your City, State 12345</p>
+    <p>Max Planck Institute for Mathematics</p>
+    <p>Vivatsgasse 7</p>
+    <p>53111 Bonn</p>
+    <p>Germany</p>
+    <p>Phone: +49-228-402-247</p>
+    <p>Office: 215</p>
+    <p>Email: lory[at]mpim-bonn.mpg.de</p>
 
-news: true  # includes a list of news items
-selected_papers: true # includes a list of papers marked as "selected={true}"
+news: false  # includes a list of news items
+selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
-okay im refreshing its not working
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
+I am a third year PhD student at the <a href="https://www.bigs-math.uni-bonn.de/"> Bonn international graduate school of Mathematics</a> and a guest at the <a href="https://www.mpim-bonn.mpg.de/">Max Planck Institute for Mathematics</a> in Bonn. My supervisor is <a href="https://people.mpim-bonn.mpg.de/blohmann/">Christian Blohmann</a>.
+My research interests lie in differential geometry, higher structures and deformation theory. In particular, I am interested in (higher) Lie groupoids, their infinitesimal counterparts and their deformation theory.
 
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
+<b>Some buzzwords</b>: smooth manifolds, Lie groupoids, Lie algebroids, deformations, differential graded Lie algebras, supermanifolds, (differential) graded manifolds, simplicial objects, category theory...
 
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Before my doctoral studies, I have studied pure Mathematics at the University of Bonn (Masters) and at the American University of Beirut (Bachelors). Besides Mathematics, I have studied music and piano performance and have a high interest in music theory.
+
+Here is my CV.
